@@ -8,7 +8,7 @@ const Appointment = () => {
         title={"Schedule Your Appointment "}
         imageUrl={"/signin.png"}
       />
-      <button className="appointment_button" onClick={() => window.location.href = "http://localhost:3000"}>
+      <button className="appointment_button" onClick={() => window.location.href = "https://selvakumar-associates-final.onrender.com/login"}>
             BOOK APPOINTMENT
       </button>
     </>

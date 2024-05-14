@@ -27,7 +27,7 @@ const Navbar = () => {
               About Us
             </Link>
           </div>
-          <button className="loginBtn btn" onClick={() => window.location.href = "http://localhost:3000"}>
+          <button className="loginBtn btn" onClick={() => window.location.href = "https://selvakumar-associates-final.onrender.com/login"}>
             LOGIN
           </button>
 
